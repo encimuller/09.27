@@ -1,0 +1,15 @@
+D:\09.27_muller\09.27_2\09.27_2\bin\Debug\net6.0\09.27_2.exe
+D:\09.27_muller\09.27_2\09.27_2\bin\Debug\net6.0\09.27_2.deps.json
+D:\09.27_muller\09.27_2\09.27_2\bin\Debug\net6.0\09.27_2.runtimeconfig.json
+D:\09.27_muller\09.27_2\09.27_2\bin\Debug\net6.0\09.27_2.dll
+D:\09.27_muller\09.27_2\09.27_2\bin\Debug\net6.0\09.27_2.pdb
+D:\09.27_muller\09.27_2\09.27_2\obj\Debug\net6.0\09.27_2.csproj.AssemblyReference.cache
+D:\09.27_muller\09.27_2\09.27_2\obj\Debug\net6.0\09.27_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\09.27_muller\09.27_2\09.27_2\obj\Debug\net6.0\09.27_2.AssemblyInfoInputs.cache
+D:\09.27_muller\09.27_2\09.27_2\obj\Debug\net6.0\09.27_2.AssemblyInfo.cs
+D:\09.27_muller\09.27_2\09.27_2\obj\Debug\net6.0\09.27_2.csproj.CoreCompileInputs.cache
+D:\09.27_muller\09.27_2\09.27_2\obj\Debug\net6.0\09.27_2.dll
+D:\09.27_muller\09.27_2\09.27_2\obj\Debug\net6.0\refint\09.27_2.dll
+D:\09.27_muller\09.27_2\09.27_2\obj\Debug\net6.0\09.27_2.pdb
+D:\09.27_muller\09.27_2\09.27_2\obj\Debug\net6.0\09.27_2.genruntimeconfig.cache
+D:\09.27_muller\09.27_2\09.27_2\obj\Debug\net6.0\ref\09.27_2.dll
